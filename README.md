@@ -2,10 +2,6 @@
 
 A modern weather experience that helps users check the forecast for any city while matching the mood of the weather. From bright and sunny interfaces to calm, moody rainy themes, Weather24 turns everyday weather updates into a more engaging and atmospheric experience.
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?auto=format&fit=crop&w=1200&q=80" alt="Weather24 preview" width="100%" />
-</p>
-
 ## Overview
 
 Weather24 is a lightweight weather dashboard designed to make checking the forecast feel more delightful and visually expressive. Instead of a plain weather widget, it presents conditions in a style that reflects the atmosphere outside — warm sunlight, cool rain, clear skies, and everything in between.
@@ -95,20 +91,6 @@ VITE_WEATHER_API_KEY=your_api_key_here
 ```
 
 Adjust the variable names to match your project setup.
-
-## Screenshots
-
-### Sunny Experience
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=1200&q=80" alt="Sunny weather experience" width="100%" />
-</p>
-
-### Rainy Experience
-
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=80" alt="Rainy weather experience" width="100%" />
-</p>
 
 ## Roadmap
 
